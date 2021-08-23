@@ -1,0 +1,21 @@
+nav{
+  display: flex;
+  /* justify-content: center; */
+}
+
+li{
+  display:flex;
+  justify-content: flex-end;
+}
+
+.textarea{
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: center;
+  flex-direction:column;
+}
+.buttons{
+  display: flex;
+  justify-content: space-between;
+}
